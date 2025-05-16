@@ -12,16 +12,15 @@ h1 {
       margin-bottom: 20px;
     }
     .opcion-btn {
-      display: block;
-      margin: 10px auto;
-      padding: 10px 20px;
-      font-size: 1em;
-      background-color: #3498db;
-      color: white;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      transition: background-color 0.3s;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1.1em;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    transition: background-color 0.3s ease;
     }
     .opcion-btn:hover {
       background-color: #2980b9;
@@ -38,4 +37,12 @@ h1 {
       border: none;
       border-radius: 5px;
       cursor: pointer;
+    }
+    .opcion-btn:hover:not(:disabled) {
+        background-color: #2980b9;
+    }
+
+    .opcion-btn:disabled {
+        cursor: default;
+        opacity: 0.7;
     }

@@ -9,84 +9,174 @@
     "opcion_4": "Berlín"
   },
   {
-    "pregunta": "¿Cuánto es 8 x 7?",
-    "respuesta": "56",
-    "categoria": "Matemáticas",
-    "opcion_1": "54",
-    "opcion_2": "56",
-    "opcion_3": "64",
-    "opcion_4": "58"
-  },
-  {
-    "pregunta": "¿Cuál es el elemento químico con el símbolo O?",
+    "pregunta": "¿Cuál es el elemento químico con símbolo 'O'?",
     "respuesta": "Oxígeno",
     "categoria": "Ciencia",
     "opcion_1": "Oro",
     "opcion_2": "Oxígeno",
-    "opcion_3": "Osmio",
-    "opcion_4": "Óxido"
+    "opcion_3": "Plata",
+    "opcion_4": "Hidrógeno"
   },
   {
-    "pregunta": "¿Quién pintó la Mona Lisa?",
-    "respuesta": "Leonardo da Vinci",
-    "categoria": "Cultura General",
-    "opcion_1": "Pablo Picasso",
-    "opcion_2": "Leonardo da Vinci",
-    "opcion_3": "Miguel Ángel",
-    "opcion_4": "Vincent van Gogh"
+    "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+    "respuesta": "Gabriel García Márquez",
+    "categoria": "Literatura",
+    "opcion_1": "Mario Vargas Llosa",
+    "opcion_2": "Gabriel García Márquez",
+    "opcion_3": "Pablo Neruda",
+    "opcion_4": "Jorge Luis Borges"
+  },
+  {
+    "pregunta": "¿Cuánto es 12 x 12?",
+    "respuesta": "144",
+    "categoria": "Matemáticas",
+    "opcion_1": "144",
+    "opcion_2": "124",
+    "opcion_3": "142",
+    "opcion_4": "148"
+  },
+  {
+    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+    "respuesta": "Mercurio",
+    "categoria": "Ciencia",
+    "opcion_1": "Venus",
+    "opcion_2": "Mercurio",
+    "opcion_3": "Marte",
+    "opcion_4": "Tierra"
   },
   {
     "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
     "respuesta": "1492",
     "categoria": "Historia",
-    "opcion_1": "1500",
-    "opcion_2": "1492",
+    "opcion_1": "1492",
+    "opcion_2": "1500",
     "opcion_3": "1485",
-    "opcion_4": "1498"
-  },
-  {
-    "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
-    "respuesta": "Marte",
-    "categoria": "Ciencia",
-    "opcion_1": "Venus",
-    "opcion_2": "Júpiter",
-    "opcion_3": "Marte",
-    "opcion_4": "Saturno"
+    "opcion_4": "1510"
   },
   {
     "pregunta": "¿Cuál es la moneda oficial de Japón?",
     "respuesta": "Yen",
-    "categoria": "Cultura General",
-    "opcion_1": "Won",
-    "opcion_2": "Yuan",
-    "opcion_3": "Yen",
+    "categoria": "Geografía",
+    "opcion_1": "Yen",
+    "opcion_2": "Won",
+    "opcion_3": "Dólar",
     "opcion_4": "Rupia"
   },
   {
-    "pregunta": "¿Cuántos lados tiene un hexágono?",
-    "respuesta": "6",
-    "categoria": "Matemáticas",
-    "opcion_1": "5",
-    "opcion_2": "6",
-    "opcion_3": "8",
-    "opcion_4": "7"
+    "pregunta": "¿Qué órgano del cuerpo humano produce insulina?",
+    "respuesta": "Páncreas",
+    "categoria": "Ciencia",
+    "opcion_1": "Hígado",
+    "opcion_2": "Riñón",
+    "opcion_3": "Páncreas",
+    "opcion_4": "Estómago"
+  },
+  {
+    "pregunta": "¿Quién pintó la Mona Lisa?",
+    "respuesta": "Leonardo da Vinci",
+    "categoria": "Arte",
+    "opcion_1": "Vincent van Gogh",
+    "opcion_2": "Pablo Picasso",
+    "opcion_3": "Leonardo da Vinci",
+    "opcion_4": "Michelangelo"
+  },
+  {
+    "pregunta": "¿Cuál es la lengua más hablada del mundo?",
+    "respuesta": "Chino mandarín",
+    "categoria": "Cultura General",
+    "opcion_1": "Inglés",
+    "opcion_2": "Español",
+    "opcion_3": "Chino mandarín",
+    "opcion_4": "Hindi"
   },
   {
     "pregunta": "¿Cuál es el río más largo del mundo?",
     "respuesta": "Amazonas",
     "categoria": "Geografía",
-    "opcion_1": "Amazonas",
-    "opcion_2": "Nilo",
+    "opcion_1": "Nilo",
+    "opcion_2": "Amazonas",
     "opcion_3": "Yangtsé",
     "opcion_4": "Misisipi"
   },
   {
-    "pregunta": "¿Qué órgano del cuerpo humano bombea la sangre?",
-    "respuesta": "El corazón",
+    "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+    "respuesta": "George Washington",
+    "categoria": "Historia",
+    "opcion_1": "Thomas Jefferson",
+    "opcion_2": "Abraham Lincoln",
+    "opcion_3": "George Washington",
+    "opcion_4": "John Adams"
+  },
+  {
+    "pregunta": "¿Qué gas respiramos que es vital para los seres humanos?",
+    "respuesta": "Oxígeno",
     "categoria": "Ciencia",
-    "opcion_1": "El cerebro",
-    "opcion_2": "El corazón",
-    "opcion_3": "Los pulmones",
-    "opcion_4": "El hígado"
+    "opcion_1": "Dióxido de carbono",
+    "opcion_2": "Oxígeno",
+    "opcion_3": "Nitrógeno",
+    "opcion_4": "Hidrógeno"
+  },
+  {
+    "pregunta": "¿En qué continente se encuentra Egipto?",
+    "respuesta": "África",
+    "categoria": "Geografía",
+    "opcion_1": "Asia",
+    "opcion_2": "África",
+    "opcion_3": "Europa",
+    "opcion_4": "América"
+  },
+  {
+    "pregunta": "¿Cuál es el símbolo químico del oro?",
+    "respuesta": "Au",
+    "categoria": "Ciencia",
+    "opcion_1": "Ag",
+    "opcion_2": "O",
+    "opcion_3": "Au",
+    "opcion_4": "Gd"
+  },
+  {
+    "pregunta": "¿Qué autor escribió 'Don Quijote de la Mancha'?",
+    "respuesta": "Miguel de Cervantes",
+    "categoria": "Literatura",
+    "opcion_1": "Gabriel García Márquez",
+    "opcion_2": "Miguel de Cervantes",
+    "opcion_3": "Federico García Lorca",
+    "opcion_4": "Jorge Luis Borges"
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la presión atmosférica?",
+    "respuesta": "Barómetro",
+    "categoria": "Ciencia",
+    "opcion_1": "Barómetro",
+    "opcion_2": "Termómetro",
+    "opcion_3": "Higrómetro",
+    "opcion_4": "Anemómetro"
+  },
+  {
+    "pregunta": "¿Qué país ganó la Copa Mundial de Fútbol en 2018?",
+    "respuesta": "Francia",
+    "categoria": "Deportes",
+    "opcion_1": "Brasil",
+    "opcion_2": "Alemania",
+    "opcion_3": "Francia",
+    "opcion_4": "Argentina"
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula química del agua?",
+    "respuesta": "H2O",
+    "categoria": "Ciencia",
+    "opcion_1": "CO2",
+    "opcion_2": "H2O",
+    "opcion_3": "O2",
+    "opcion_4": "NaCl"
+  },
+  {
+    "pregunta": "¿Qué famoso científico propuso la teoría de la relatividad?",
+    "respuesta": "Albert Einstein",
+    "categoria": "Ciencia",
+    "opcion_1": "Isaac Newton",
+    "opcion_2": "Albert Einstein",
+    "opcion_3": "Nikola Tesla",
+    "opcion_4": "Galileo Galilei"
   }
 ]
