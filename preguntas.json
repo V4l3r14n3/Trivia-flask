@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "respuesta": "París",
+    "categoria": "Geografía"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuánto es 8 x 7?",
+    "respuesta": "56",
+    "categoria": "Matemáticas"
+  }
+]
