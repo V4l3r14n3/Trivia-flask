@@ -7,16 +7,6 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///preguntas.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db.init_app(app)
 
-def crear_preguntas():
-    if Pregunta.query.first():
-        return
-    ejemplo = [
-        Pregunta(pregunta="¿Cuál es la capital de Francia?", respuesta="París", categoria="Geografía"),
-        Pregunta(pregunta="¿Cuánto es 8 x 7?", respuesta="56", categoria="Matemáticas")
-    ]
-    db.session.add_all(ejemplo)
-    db.session.commit()
-
 @app.route("/")
 def index():
     return render_template("index.html")
@@ -27,7 +17,15 @@ def aleatoria():
     if not preguntas:
         return jsonify({"error": "No hay preguntas"}), 404
     pregunta = random.choice(preguntas)
-    return jsonify({"id": pregunta.id, "pregunta": pregunta.pregunta, "categoria": pregunta.categoria})
+    opciones = [pregunta.opcion_1, pregunta.opcion_2, pregunta.opcion_3, pregunta.opcion_4]
+    random.shuffle(opciones)  # Mezcla las opciones
+    return jsonify({
+        "id": pregunta.id,
+        "pregunta": pregunta.pregunta,
+        "categoria": pregunta.categoria,
+        "opciones": opciones
+    })
+
 
 @app.route("/preguntas/categoria/<categoria>")
 def por_categoria(categoria):
@@ -44,5 +42,5 @@ def ver_respuesta(id):
 if __name__ == "__main__":
     with app.app_context():
         db.create_all()
-        crear_preguntas()
+        #crear_preguntas()
     app.run(debug=True)

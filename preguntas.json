@@ -1,50 +1,92 @@
 [
   {
-    "id": 1,
     "pregunta": "¿Cuál es la capital de Francia?",
     "respuesta": "París",
-    "categoria": "Geografía"
+    "categoria": "Geografía",
+    "opcion_1": "Londres",
+    "opcion_2": "Madrid",
+    "opcion_3": "París",
+    "opcion_4": "Berlín"
   },
   {
-    "id": 2,
     "pregunta": "¿Cuánto es 8 x 7?",
     "respuesta": "56",
-    "categoria": "Matemáticas"
+    "categoria": "Matemáticas",
+    "opcion_1": "54",
+    "opcion_2": "56",
+    "opcion_3": "64",
+    "opcion_4": "58"
   },
   {
-    "id": 3,
-    "pregunta": "¿Cuánto es 7 x 8?",
-    "respuesta": "Agarrame el chocho",
-    "categoria": "Matemáticas"
+    "pregunta": "¿Cuál es el elemento químico con el símbolo O?",
+    "respuesta": "Oxígeno",
+    "categoria": "Ciencia",
+    "opcion_1": "Oro",
+    "opcion_2": "Oxígeno",
+    "opcion_3": "Osmio",
+    "opcion_4": "Óxido"
   },
   {
-  "id": 4,
-  "pregunta": "¿En qué año llegó el hombre a la Luna?",
-  "respuesta": "1969",
-  "categoria": "Historia"
+    "pregunta": "¿Quién pintó la Mona Lisa?",
+    "respuesta": "Leonardo da Vinci",
+    "categoria": "Cultura General",
+    "opcion_1": "Pablo Picasso",
+    "opcion_2": "Leonardo da Vinci",
+    "opcion_3": "Miguel Ángel",
+    "opcion_4": "Vincent van Gogh"
   },
   {
-  "id": 5,
-  "pregunta": "¿Cuál es el símbolo químico del agua?",
-  "respuesta": "H2O",
-  "categoria": "Ciencia"
+    "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
+    "respuesta": "1492",
+    "categoria": "Historia",
+    "opcion_1": "1500",
+    "opcion_2": "1492",
+    "opcion_3": "1485",
+    "opcion_4": "1498"
   },
   {
-    "id": 6,
-    "pregunta": "¿Quién escribió 'Cien años de soledad'?",
-    "respuesta": "Gabriel García Márquez",
-    "categoria": "Literatura"
-  },
-  {
-    "id": 7,
     "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
     "respuesta": "Marte",
-    "categoria": "Ciencia"
+    "categoria": "Ciencia",
+    "opcion_1": "Venus",
+    "opcion_2": "Júpiter",
+    "opcion_3": "Marte",
+    "opcion_4": "Saturno"
   },
   {
-    "id": 8,
-    "pregunta": "¿Cuánto es 12 x 6?",
-    "respuesta": "72",
-    "categoria": "Matemáticas"
+    "pregunta": "¿Cuál es la moneda oficial de Japón?",
+    "respuesta": "Yen",
+    "categoria": "Cultura General",
+    "opcion_1": "Won",
+    "opcion_2": "Yuan",
+    "opcion_3": "Yen",
+    "opcion_4": "Rupia"
+  },
+  {
+    "pregunta": "¿Cuántos lados tiene un hexágono?",
+    "respuesta": "6",
+    "categoria": "Matemáticas",
+    "opcion_1": "5",
+    "opcion_2": "6",
+    "opcion_3": "8",
+    "opcion_4": "7"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "respuesta": "Amazonas",
+    "categoria": "Geografía",
+    "opcion_1": "Amazonas",
+    "opcion_2": "Nilo",
+    "opcion_3": "Yangtsé",
+    "opcion_4": "Misisipi"
+  },
+  {
+    "pregunta": "¿Qué órgano del cuerpo humano bombea la sangre?",
+    "respuesta": "El corazón",
+    "categoria": "Ciencia",
+    "opcion_1": "El cerebro",
+    "opcion_2": "El corazón",
+    "opcion_3": "Los pulmones",
+    "opcion_4": "El hígado"
   }
 ]

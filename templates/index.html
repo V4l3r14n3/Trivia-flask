@@ -1,14 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
+  <meta charset="UTF-8">
   <title>Trivia Rápida</title>
   <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
   <h1>Trivia Rápida</h1>
   <div id="pregunta">Cargando pregunta...</div>
-  <button onclick="verRespuesta()">Ver Respuesta</button>
+  <div id="opciones"></div>
   <div id="respuesta"></div>
+  <button id="siguiente-btn" onclick="cargarPregunta()">Siguiente pregunta</button>
+
   <script src="/static/script.js"></script>
 </body>
 </html>
