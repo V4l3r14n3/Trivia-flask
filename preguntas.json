@@ -10,5 +10,11 @@
     "pregunta": "¿Cuánto es 8 x 7?",
     "respuesta": "56",
     "categoria": "Matemáticas"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cuánto es 7 x 8?",
+    "respuesta": "Agarrame el chocho",
+    "categoria": "Matemáticas"
   }
 ]
