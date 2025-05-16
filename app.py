@@ -1,14 +1,12 @@
 from flask import Flask, jsonify, render_template
 from models import db, Pregunta
 import random
-import os
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///preguntas.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db.init_app(app)
 
-# Crear preguntas si no existen
 def crear_preguntas():
     if Pregunta.query.first():
         return
@@ -18,11 +16,6 @@ def crear_preguntas():
     ]
     db.session.add_all(ejemplo)
     db.session.commit()
-
-@app.before_first_request
-def setup():
-    db.create_all()
-    crear_preguntas()
 
 @app.route("/")
 def index():
@@ -49,4 +42,7 @@ def ver_respuesta(id):
     return jsonify({"error": "No encontrada"}), 404
 
 if __name__ == "__main__":
+    with app.app_context():
+        db.create_all()
+        crear_preguntas()
     app.run(debug=True)
