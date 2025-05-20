@@ -1,182 +1,306 @@
 [
+  
   {
-    "pregunta": "¿Cuál es la capital de Francia?",
-    "respuesta": "París",
-    "categoria": "Geografía",
-    "opcion_1": "Londres",
-    "opcion_2": "Madrid",
-    "opcion_3": "París",
-    "opcion_4": "Berlín"
-  },
-  {
-    "pregunta": "¿Cuál es el elemento químico con símbolo 'O'?",
-    "respuesta": "Oxígeno",
-    "categoria": "Ciencia",
-    "opcion_1": "Oro",
-    "opcion_2": "Oxígeno",
-    "opcion_3": "Plata",
-    "opcion_4": "Hidrógeno"
-  },
-  {
-    "pregunta": "¿Quién escribió 'Cien años de soledad'?",
-    "respuesta": "Gabriel García Márquez",
-    "categoria": "Literatura",
-    "opcion_1": "Mario Vargas Llosa",
-    "opcion_2": "Gabriel García Márquez",
-    "opcion_3": "Pablo Neruda",
-    "opcion_4": "Jorge Luis Borges"
-  },
-  {
-    "pregunta": "¿Cuánto es 12 x 12?",
-    "respuesta": "144",
-    "categoria": "Matemáticas",
-    "opcion_1": "144",
-    "opcion_2": "124",
-    "opcion_3": "142",
-    "opcion_4": "148"
-  },
-  {
-    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
-    "respuesta": "Mercurio",
-    "categoria": "Ciencia",
-    "opcion_1": "Venus",
-    "opcion_2": "Mercurio",
-    "opcion_3": "Marte",
-    "opcion_4": "Tierra"
-  },
-  {
-    "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
-    "respuesta": "1492",
+    "pregunta": "¿Quién descubrió América?",
+    "respuesta": "Cristóbal Colón",
     "categoria": "Historia",
-    "opcion_1": "1492",
-    "opcion_2": "1500",
-    "opcion_3": "1485",
-    "opcion_4": "1510"
+    "dificultad": "facil",
+    "opcion_1": "Américo Vespucio",
+    "opcion_2": "Cristóbal Colón",
+    "opcion_3": "Marco Polo",
+    "opcion_4": "Hernán Cortés"
   },
   {
-    "pregunta": "¿Cuál es la moneda oficial de Japón?",
-    "respuesta": "Yen",
-    "categoria": "Geografía",
-    "opcion_1": "Yen",
-    "opcion_2": "Won",
-    "opcion_3": "Dólar",
-    "opcion_4": "Rupia"
-  },
-  {
-    "pregunta": "¿Qué órgano del cuerpo humano produce insulina?",
-    "respuesta": "Páncreas",
-    "categoria": "Ciencia",
-    "opcion_1": "Hígado",
-    "opcion_2": "Riñón",
-    "opcion_3": "Páncreas",
-    "opcion_4": "Estómago"
-  },
-  {
-    "pregunta": "¿Quién pintó la Mona Lisa?",
-    "respuesta": "Leonardo da Vinci",
-    "categoria": "Arte",
-    "opcion_1": "Vincent van Gogh",
-    "opcion_2": "Pablo Picasso",
-    "opcion_3": "Leonardo da Vinci",
-    "opcion_4": "Michelangelo"
-  },
-  {
-    "pregunta": "¿Cuál es la lengua más hablada del mundo?",
-    "respuesta": "Chino mandarín",
-    "categoria": "Cultura General",
-    "opcion_1": "Inglés",
-    "opcion_2": "Español",
-    "opcion_3": "Chino mandarín",
-    "opcion_4": "Hindi"
-  },
-  {
-    "pregunta": "¿Cuál es el río más largo del mundo?",
-    "respuesta": "Amazonas",
-    "categoria": "Geografía",
-    "opcion_1": "Nilo",
-    "opcion_2": "Amazonas",
-    "opcion_3": "Yangtsé",
-    "opcion_4": "Misisipi"
+    "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "respuesta": "1914",
+    "categoria": "Historia",
+    "dificultad": "facil",
+    "opcion_1": "1939",
+    "opcion_2": "1914",
+    "opcion_3": "1920",
+    "opcion_4": "1900"
   },
   {
     "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
     "respuesta": "George Washington",
     "categoria": "Historia",
-    "opcion_1": "Thomas Jefferson",
-    "opcion_2": "Abraham Lincoln",
-    "opcion_3": "George Washington",
-    "opcion_4": "John Adams"
+    "dificultad": "facil",
+    "opcion_1": "Abraham Lincoln",
+    "opcion_2": "George Washington",
+    "opcion_3": "John Adams",
+    "opcion_4": "Thomas Jefferson"
   },
   {
-    "pregunta": "¿Qué gas respiramos que es vital para los seres humanos?",
-    "respuesta": "Oxígeno",
-    "categoria": "Ciencia",
-    "opcion_1": "Dióxido de carbono",
-    "opcion_2": "Oxígeno",
-    "opcion_3": "Nitrógeno",
-    "opcion_4": "Hidrógeno"
+    "pregunta": "¿Qué civilización construyó las pirámides de Egipto?",
+    "respuesta": "Egipcia",
+    "categoria": "Historia",
+    "dificultad": "facil",
+    "opcion_1": "Griega",
+    "opcion_2": "Romana",
+    "opcion_3": "Egipcia",
+    "opcion_4": "China"
   },
   {
-    "pregunta": "¿En qué continente se encuentra Egipto?",
-    "respuesta": "África",
-    "categoria": "Geografía",
+    "pregunta": "¿En qué continente se encuentra Roma?",
+    "respuesta": "Europa",
+    "categoria": "Historia",
+    "dificultad": "facil",
     "opcion_1": "Asia",
-    "opcion_2": "África",
-    "opcion_3": "Europa",
+    "opcion_2": "Europa",
+    "opcion_3": "África",
     "opcion_4": "América"
   },
   {
-    "pregunta": "¿Cuál es el símbolo químico del oro?",
-    "respuesta": "Au",
-    "categoria": "Ciencia",
-    "opcion_1": "Ag",
-    "opcion_2": "O",
-    "opcion_3": "Au",
-    "opcion_4": "Gd"
+    "pregunta": "¿Qué imperio fue dirigido por Julio César?",
+    "respuesta": "Imperio Romano",
+    "categoria": "Historia",
+    "dificultad": "facil",
+    "opcion_1": "Imperio Griego",
+    "opcion_2": "Imperio Romano",
+    "opcion_3": "Imperio Egipcio",
+    "opcion_4": "Imperio Persa"
   },
   {
-    "pregunta": "¿Qué autor escribió 'Don Quijote de la Mancha'?",
-    "respuesta": "Miguel de Cervantes",
-    "categoria": "Literatura",
-    "opcion_1": "Gabriel García Márquez",
-    "opcion_2": "Miguel de Cervantes",
-    "opcion_3": "Federico García Lorca",
-    "opcion_4": "Jorge Luis Borges"
+    "pregunta": "¿Cuál fue la causa principal de la Revolución Francesa?",
+    "respuesta": "Desigualdad social",
+    "categoria": "Historia",
+    "dificultad": "facil",
+    "opcion_1": "Invasión extranjera",
+    "opcion_2": "Desigualdad social",
+    "opcion_3": "Reforma religiosa",
+    "opcion_4": "Crisis económica mundial"
   },
   {
-    "pregunta": "¿Qué instrumento mide la presión atmosférica?",
-    "respuesta": "Barómetro",
-    "categoria": "Ciencia",
-    "opcion_1": "Barómetro",
-    "opcion_2": "Termómetro",
-    "opcion_3": "Higrómetro",
-    "opcion_4": "Anemómetro"
+    "pregunta": "¿Qué país usó por primera vez la bomba atómica?",
+    "respuesta": "Estados Unidos",
+    "categoria": "Historia",
+    "dificultad": "facil",
+    "opcion_1": "Japón",
+    "opcion_2": "Alemania",
+    "opcion_3": "Estados Unidos",
+    "opcion_4": "Rusia"
   },
   {
-    "pregunta": "¿Qué país ganó la Copa Mundial de Fútbol en 2018?",
+    "pregunta": "¿Quién fue Simón Bolívar?",
+    "respuesta": "Un libertador sudamericano",
+    "categoria": "Historia",
+    "dificultad": "facil",
+    "opcion_1": "Un emperador europeo",
+    "opcion_2": "Un libertador sudamericano",
+    "opcion_3": "Un dictador africano",
+    "opcion_4": "Un filósofo griego"
+  },
+  {
+    "pregunta": "¿Qué muralla se construyó para proteger China?",
+    "respuesta": "La Gran Muralla China",
+    "categoria": "Historia",
+    "dificultad": "facil",
+    "opcion_1": "Muralla de Berlín",
+    "opcion_2": "La Gran Muralla China",
+    "opcion_3": "Muralla Inca",
+    "opcion_4": "Muralla Romana"
+  },
+
+  
+  {
+    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+    "respuesta": "Tratado de Versalles",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "Tratado de París",
+    "opcion_2": "Tratado de Versalles",
+    "opcion_3": "Tratado de Ginebra",
+    "opcion_4": "Tratado de Viena"
+  },
+  {
+    "pregunta": "¿Qué país lideraba Napoleón Bonaparte?",
     "respuesta": "Francia",
-    "categoria": "Deportes",
-    "opcion_1": "Brasil",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "Alemania",
+    "opcion_2": "Francia",
+    "opcion_3": "Italia",
+    "opcion_4": "España"
+  },
+  {
+    "pregunta": "¿En qué siglo ocurrió la Revolución Industrial?",
+    "respuesta": "Siglo XVIII",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "Siglo XVII",
+    "opcion_2": "Siglo XVIII",
+    "opcion_3": "Siglo XIX",
+    "opcion_4": "Siglo XX"
+  },
+  {
+    "pregunta": "¿Qué líder fue asesinado en Dallas en 1963?",
+    "respuesta": "John F. Kennedy",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "Martin Luther King",
+    "opcion_2": "Abraham Lincoln",
+    "opcion_3": "John F. Kennedy",
+    "opcion_4": "Theodore Roosevelt"
+  },
+  {
+    "pregunta": "¿Qué conflicto bélico enfrentó a EE.UU. y Vietnam?",
+    "respuesta": "La Guerra de Vietnam",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "La Guerra de Corea",
+    "opcion_2": "La Guerra de Vietnam",
+    "opcion_3": "La Guerra Fría",
+    "opcion_4": "La Segunda Guerra Mundial"
+  },
+  {
+    "pregunta": "¿Quién fue el dictador de la Alemania nazi?",
+    "respuesta": "Adolf Hitler",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "Benito Mussolini",
+    "opcion_2": "Adolf Hitler",
+    "opcion_3": "Josef Stalin",
+    "opcion_4": "Winston Churchill"
+  },
+  {
+    "pregunta": "¿Qué imperio cayó en 476 d.C.?",
+    "respuesta": "El Imperio Romano de Occidente",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "El Imperio Otomano",
+    "opcion_2": "El Imperio Bizantino",
+    "opcion_3": "El Imperio Romano de Occidente",
+    "opcion_4": "El Imperio Persa"
+  },
+  {
+    "pregunta": "¿Qué país fue dividido por el Muro de Berlín?",
+    "respuesta": "Alemania",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "Rusia",
     "opcion_2": "Alemania",
     "opcion_3": "Francia",
-    "opcion_4": "Argentina"
+    "opcion_4": "Polonia"
   },
   {
-    "pregunta": "¿Cuál es la fórmula química del agua?",
-    "respuesta": "H2O",
-    "categoria": "Ciencia",
-    "opcion_1": "CO2",
-    "opcion_2": "H2O",
-    "opcion_3": "O2",
-    "opcion_4": "NaCl"
+    "pregunta": "¿Qué faraón egipcio fue descubierto en 1922?",
+    "respuesta": "Tutankamón",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "Ramsés II",
+    "opcion_2": "Tutankamón",
+    "opcion_3": "Cleopatra",
+    "opcion_4": "Akhenatón"
   },
   {
-    "pregunta": "¿Qué famoso científico propuso la teoría de la relatividad?",
-    "respuesta": "Albert Einstein",
-    "categoria": "Ciencia",
-    "opcion_1": "Isaac Newton",
-    "opcion_2": "Albert Einstein",
-    "opcion_3": "Nikola Tesla",
-    "opcion_4": "Galileo Galilei"
+    "pregunta": "¿Qué guerra se libró entre el norte y el sur de EE.UU.?",
+    "respuesta": "La Guerra Civil",
+    "categoria": "Historia",
+    "dificultad": "normal",
+    "opcion_1": "La Guerra Civil",
+    "opcion_2": "La Guerra de Independencia",
+    "opcion_3": "La Guerra de Secesión",
+    "opcion_4": "La Guerra de Vietnam"
+  },
+
+  {
+    "pregunta": "¿Quién fue el último zar de Rusia?",
+    "respuesta": "Nicolás II",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "Pedro el Grande",
+    "opcion_2": "Iván el Terrible",
+    "opcion_3": "Nicolás II",
+    "opcion_4": "Alejandro III"
+  },
+  {
+    "pregunta": "¿En qué año cayó Constantinopla?",
+    "respuesta": "1453",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "1492",
+    "opcion_2": "1453",
+    "opcion_3": "1517",
+    "opcion_4": "1420"
+  },
+  {
+    "pregunta": "¿Qué emperador romano legalizó el cristianismo?",
+    "respuesta": "Constantino",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "Nerón",
+    "opcion_2": "Constantino",
+    "opcion_3": "Julio César",
+    "opcion_4": "Marco Aurelio"
+  },
+  {
+    "pregunta": "¿Qué tratado puso fin a la Guerra de los Treinta Años?",
+    "respuesta": "Paz de Westfalia",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "Tratado de Versalles",
+    "opcion_2": "Paz de Westfalia",
+    "opcion_3": "Tratado de Utrecht",
+    "opcion_4": "Tratado de Tordesillas"
+  },
+  {
+    "pregunta": "¿Quién fue el primer emperador romano?",
+    "respuesta": "Augusto",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "Julio César",
+    "opcion_2": "Nerón",
+    "opcion_3": "Augusto",
+    "opcion_4": "Trajano"
+  },
+  {
+    "pregunta": "¿Cuál fue la principal civilización de la antigua Mesopotamia?",
+    "respuesta": "Sumeria",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "Babilonia",
+    "opcion_2": "Asiria",
+    "opcion_3": "Sumeria",
+    "opcion_4": "Persa"
+  },
+  {
+    "pregunta": "¿Qué evento marcó el inicio de la Edad Moderna?",
+    "respuesta": "La caída de Constantinopla",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "Descubrimiento de América",
+    "opcion_2": "Caída del Imperio Romano",
+    "opcion_3": "La caída de Constantinopla",
+    "opcion_4": "Revolución Francesa"
+  },
+  {
+    "pregunta": "¿Qué civilización precolombina se ubicó en el actual Perú?",
+    "respuesta": "Inca",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "Maya",
+    "opcion_2": "Azteca",
+    "opcion_3": "Inca",
+    "opcion_4": "Olmeca"
+  },
+  {
+    "pregunta": "¿Qué guerra enfrentó a Esparta y Atenas?",
+    "respuesta": "Guerra del Peloponeso",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "Guerras Médicas",
+    "opcion_2": "Guerra del Peloponeso",
+    "opcion_3": "Guerras Púnicas",
+    "opcion_4": "Guerra de Troya"
+  },
+  {
+    "pregunta": "¿Qué evento dio inicio a la Primera Guerra Mundial?",
+    "respuesta": "El asesinato del archiduque Francisco Fernando",
+    "categoria": "Historia",
+    "dificultad": "dificil",
+    "opcion_1": "Invasión de Polonia",
+    "opcion_2": "Asesinato de Francisco Fernando",
+    "opcion_3": "Bombardeo de Pearl Harbor",
+    "opcion_4": "Tratado de Versalles"
   }
 ]
