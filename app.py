@@ -74,6 +74,5 @@ def cargar_preguntas_desde_json():
 if __name__ == "__main__":
     with app.app_context():
         db.create_all()
-        if not Pregunta.query.first():
-            cargar_preguntas_desde_json()
+        cargar_preguntas_desde_json()  # Se ejecuta SIEMPRE, pero evita duplicados
     app.run(debug=True)
