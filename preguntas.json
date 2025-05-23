@@ -302,5 +302,205 @@
     "opcion_2": "Asesinato de Francisco Fernando",
     "opcion_3": "Bombardeo de Pearl Harbor",
     "opcion_4": "Tratado de Versalles"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de 7 x 8?",
+    "respuesta": "56",
+    "categoria": "Matemáticas",
+    "dificultad": "facil",
+    "opcion_1": "54",
+    "opcion_2": "56",
+    "opcion_3": "58",
+    "opcion_4": "60"
+  },
+  {
+    "pregunta": "¿Cuál es la raíz cuadrada de 144?",
+    "respuesta": "12",
+    "categoria": "Matemáticas",
+    "dificultad": "facil",
+    "opcion_1": "14",
+    "opcion_2": "10",
+    "opcion_3": "12",
+    "opcion_4": "16"
+  },
+  {
+    "pregunta": "¿Cuál es el valor de π (pi) redondeado a dos decimales?",
+    "respuesta": "3.14",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "3.41",
+    "opcion_2": "3.14",
+    "opcion_3": "3.13",
+    "opcion_4": "3.15"
+  },
+  {
+    "pregunta": "¿Cómo se llama un polígono de ocho lados?",
+    "respuesta": "Octágono",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "Heptágono",
+    "opcion_2": "Pentágono",
+    "opcion_3": "Hexágono",
+    "opcion_4": "Octágono"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de (3 + 2) × (4 - 1)?",
+    "respuesta": "15",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "12",
+    "opcion_2": "15",
+    "opcion_3": "18",
+    "opcion_4": "10"
+  },
+  {
+    "pregunta": "¿Cómo se llama el término que representa la distancia desde el centro de un círculo hasta cualquier punto de la circunferencia?",
+    "respuesta": "Radio",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "Diámetro",
+    "opcion_2": "Radio",
+    "opcion_3": "Cuerda",
+    "opcion_4": "Arco"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de elevar 5 al cuadrado?",
+    "respuesta": "25",
+    "categoria": "Matemáticas",
+    "dificultad": "facil",
+    "opcion_1": "15",
+    "opcion_2": "20",
+    "opcion_3": "25",
+    "opcion_4": "30"
+  },
+  {
+    "pregunta": "¿Qué propiedad se aplica en la igualdad: a + b = b + a?",
+    "respuesta": "Propiedad conmutativa",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "Propiedad distributiva",
+    "opcion_2": "Propiedad asociativa",
+    "opcion_3": "Propiedad conmutativa",
+    "opcion_4": "Propiedad reflexiva"
+  },
+  {
+    "pregunta": "¿Qué representa el área de un triángulo con base 10 cm y altura 5 cm?",
+    "respuesta": "25 cm²",
+    "categoria": "Matemáticas",
+    "dificultad": "dificil",
+    "opcion_1": "50 cm²",
+    "opcion_2": "15 cm²",
+    "opcion_3": "25 cm²",
+    "opcion_4": "30 cm²"
+  },
+  {
+    "pregunta": "¿Cómo se llama la figura geométrica que tiene todos sus lados y ángulos iguales?",
+    "respuesta": "Cuadrado",
+    "categoria": "Matemáticas",
+    "dificultad": "facil",
+    "opcion_1": "Rectángulo",
+    "opcion_2": "Rombo",
+    "opcion_3": "Cuadrado",
+    "opcion_4": "Trapecio"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de 9 x 6?",
+    "respuesta": "54",
+    "categoria": "Matemáticas",
+    "dificultad": "facil",
+    "opcion_1": "56",
+    "opcion_2": "52",
+    "opcion_3": "54",
+    "opcion_4": "58"
+  },
+  {
+    "pregunta": "¿Qué nombre recibe un ángulo que mide exactamente 90 grados?",
+    "respuesta": "Ángulo recto",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "Ángulo obtuso",
+    "opcion_2": "Ángulo recto",
+    "opcion_3": "Ángulo agudo",
+    "opcion_4": "Ángulo llano"
+  },
+  {
+    "pregunta": "¿Cuál es el valor de 2³?",
+    "respuesta": "8",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "6",
+    "opcion_2": "8",
+    "opcion_3": "9",
+    "opcion_4": "12"
+  },
+  {
+    "pregunta": "¿Qué figura tiene cuatro lados de igual longitud y cuatro ángulos rectos?",
+    "respuesta": "Cuadrado",
+    "categoria": "Matemáticas",
+    "dificultad": "facil",
+    "opcion_1": "Rombo",
+    "opcion_2": "Rectángulo",
+    "opcion_3": "Cuadrado",
+    "opcion_4": "Trapecio"
+  },
+  {
+    "pregunta": "¿Cómo se llama la operación inversa de la multiplicación?",
+    "respuesta": "División",
+    "categoria": "Matemáticas",
+    "dificultad": "facil",
+    "opcion_1": "Suma",
+    "opcion_2": "Resta",
+    "opcion_3": "División",
+    "opcion_4": "Exponente"
+  },
+  {
+    "pregunta": "¿Qué número falta en la serie: 2, 4, 8, 16, __?",
+    "respuesta": "32",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "24",
+    "opcion_2": "30",
+    "opcion_3": "32",
+    "opcion_4": "36"
+  },
+  {
+    "pregunta": "¿Qué representa la hipotenusa en un triángulo rectángulo?",
+    "respuesta": "El lado opuesto al ángulo recto",
+    "categoria": "Matemáticas",
+    "dificultad": "dificil",
+    "opcion_1": "El lado más corto",
+    "opcion_2": "El lado adyacente al ángulo agudo",
+    "opcion_3": "El lado opuesto al ángulo recto",
+    "opcion_4": "Uno de los catetos"
+  },
+  {
+    "pregunta": "¿Qué fórmula se usa para calcular el área de un círculo?",
+    "respuesta": "π × radio²",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "2 × π × radio",
+    "opcion_2": "π × radio²",
+    "opcion_3": "diámetro × π",
+    "opcion_4": "radio × 2π"
+  },
+  {
+    "pregunta": "¿Qué número es un múltiplo común de 4 y 6?",
+    "respuesta": "12",
+    "categoria": "Matemáticas",
+    "dificultad": "media",
+    "opcion_1": "10",
+    "opcion_2": "12",
+    "opcion_3": "16",
+    "opcion_4": "24"
+  },
+  {
+    "pregunta": "¿Cuál es la suma de los ángulos internos de un triángulo?",
+    "respuesta": "180 grados",
+    "categoria": "Matemáticas",
+    "dificultad": "facil",
+    "opcion_1": "90 grados",
+    "opcion_2": "180 grados",
+    "opcion_3": "270 grados",
+    "opcion_4": "360 grados"
   }
 ]
