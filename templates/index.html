@@ -3,7 +3,92 @@
 <head>
   <meta charset="UTF-8">
   <title>Trivia Rápida</title>
-  <link rel="stylesheet" href="/static/style.css">
+    <style>
+    body {
+      font-family: 'Arial Black', sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: #fff;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      color: #ffdd57;
+      text-shadow: 2px 2px #000;
+    }
+
+    #vidas {
+      font-size: 20px;
+      margin-bottom: 20px;
+      color: #ff7171;
+    }
+
+    #pregunta {
+      font-size: 24px;
+      font-weight: bold;
+      margin: 30px 0 20px;
+      color: #ffffff;
+      text-shadow: 1px 1px #000;
+    }
+
+    #opciones {
+      margin: 20px 0;
+    }
+
+    .opcion-btn {
+      display: block;
+      margin: 10px auto;
+      font-size: 18px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 10px;
+      background-color: #ffffffcc;
+      color: #000;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      box-shadow: 0 3px #999;
+      width: 250px;
+    }
+
+    .opcion-btn:hover {
+      background-color: #c706c7;
+      color: #fff;
+      transform: scale(1.05);
+    }
+
+    #respuesta {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    #siguiente-btn {
+      margin-top: 30px;
+      font-size: 20px;
+      padding: 12px 30px;
+      border: none;
+      border-radius: 12px;
+      background-color: #ffdd57;
+      color: #000;
+      font-weight: bold;
+      cursor: pointer;
+      box-shadow: 0 4px #c9b037;
+      transition: all 0.2s ease;
+    }
+
+    #siguiente-btn:hover {
+      background-color: #c706c7;
+      box-shadow: 0 6px #c9b037;
+      transform: scale(1.05);
+      color: #fff;
+    }
+
+    #siguiente-btn:disabled {
+      background-color: #bbb;
+      cursor: not-allowed;
+    }
+  </style>
 </head>
 <body>
   <h1>Trivia Rápida</h1>
