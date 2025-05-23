@@ -603,4 +603,91 @@
     "opcion_3": "Calcula raíces de polinomios",
     "opcion_4": "Relaciona funciones lineales"
   }
-]
+]<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Menú Principal</title>
+  <style>
+    body {
+      font-family: 'Arial Black', sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: #fff;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1, h2 {
+      color: #ffdd57;
+      text-shadow: 2px 2px #000;
+    }
+
+    form {
+      background-color: rgba(0, 0, 0, 0.6);
+      display: inline-block;
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 15px #ffdd57;
+      margin-top: 20px;
+    }
+
+    select {
+      font-size: 18px;
+      padding: 10px;
+      border-radius: 10px;
+      margin: 10px 0;
+      border: none;
+      background-color: #ffffffcc;
+      color: #000;
+      width: 200px;
+    }
+
+    button {
+      margin-top: 20px;
+      font-size: 20px;
+      padding: 12px 30px;
+      border: none;
+      border-radius: 12px;
+      background-color: #ffdd57;
+      color: #000;
+      font-weight: bold;
+      cursor: pointer;
+      box-shadow: 0 4px #c9b037;
+      transition: all 0.2s ease;
+    }
+
+    button:hover {
+      background-color: #ceb53b;
+      box-shadow: 0 6px #c9b037;
+      transform: scale(1.05);
+    }
+
+    select:focus, button:focus {
+      outline: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Comencemos</h1>
+  <form action="/jugar" method="get">
+    <h2>Selecciona una Categoria</h2>
+    <select name="categoria" required>
+      <option value="Historia">Historia</option>
+      <option value="Matemáticas">Matemáticas</option>
+      <option value="Química">Química</option>
+      <option value="Geografía">Geografía</option>
+    </select>
+    
+    <h2>Selecciona la dificultad</h2>
+    <select name="dificultad" required>
+      <option value="facil">Fácil</option>
+      <option value="normal">Normal</option>
+      <option value="dificil">Difícil</option>
+    </select>
+    
+    <br><br>
+    <button type="submit">🎮 Comenzar</button>
+  </form>
+</body>
+</html>
+
