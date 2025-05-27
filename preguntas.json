@@ -602,5 +602,607 @@
     "opcion_2": "Relaciona la derivada con la integral",
     "opcion_3": "Calcula raíces de polinomios",
     "opcion_4": "Relaciona funciones lineales"
+  },
+  {
+    "pregunta": "¿Cuál es el símbolo químico del oxígeno?",
+    "respuesta": "O",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "Ox",
+    "opcion_2": "O",
+    "opcion_3": "Om",
+    "opcion_4": "Og"
+  },
+  {
+    "pregunta": "¿Qué estado de la materia no tiene forma ni volumen definidos?",
+    "respuesta": "Gas",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "Sólido",
+    "opcion_2": "Líquido",
+    "opcion_3": "Gas",
+    "opcion_4": "Plasma"
+  },
+  {
+    "pregunta": "¿Cuál es el número atómico del hidrógeno?",
+    "respuesta": "1",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "1",
+    "opcion_2": "2",
+    "opcion_3": "8",
+    "opcion_4": "10"
+  },
+  {
+    "pregunta": "¿Qué líquido es conocido como el disolvente universal?",
+    "respuesta": "Agua",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "Ácido",
+    "opcion_2": "Alcohol",
+    "opcion_3": "Agua",
+    "opcion_4": "Aceite"
+  },
+  {
+    "pregunta": "¿Qué tipo de carga tiene un electrón?",
+    "respuesta": "Negativa",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "Positiva",
+    "opcion_2": "Negativa",
+    "opcion_3": "Neutra",
+    "opcion_4": "Variable"
+  },
+  {
+    "pregunta": "¿Qué elemento químico tiene el símbolo 'Na'?",
+    "respuesta": "Sodio",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "Nitrógeno",
+    "opcion_2": "Sodio",
+    "opcion_3": "Neón",
+    "opcion_4": "Níquel"
+  },
+  {
+    "pregunta": "¿Cómo se llama el cambio de sólido a líquido?",
+    "respuesta": "Fusión",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "Evaporación",
+    "opcion_2": "Condensación",
+    "opcion_3": "Fusión",
+    "opcion_4": "Sublimación"
+  },
+  {
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "Nitrógeno",
+    "opcion_2": "Oxígeno",
+    "opcion_3": "Dióxido de carbono",
+    "opcion_4": "Hidrógeno"
+  },
+  {
+    "pregunta": "¿Cuál es el pH de una sustancia neutra como el agua pura?",
+    "respuesta": "7",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "0",
+    "opcion_2": "3",
+    "opcion_3": "7",
+    "opcion_4": "14"
+  },
+  {
+    "pregunta": "¿Qué subpartícula atómica tiene carga positiva?",
+    "respuesta": "Protón",
+    "categoria": "quimica",
+    "dificultad": "facil",
+    "opcion_1": "Protón",
+    "opcion_2": "Electrón",
+    "opcion_3": "Neutrón",
+    "opcion_4": "Isótopo"
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula química del ácido sulfúrico?",
+    "respuesta": "H2SO4",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "H2SO4",
+    "opcion_2": "HCl",
+    "opcion_3": "HNO3",
+    "opcion_4": "H2CO3"
+  },
+  {
+    "pregunta": "¿Qué es un mol en química?",
+    "respuesta": "6.022 x 10^23 partículas",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "1 gramo de sustancia",
+    "opcion_2": "La masa molar",
+    "opcion_3": "6.022 x 10^23 partículas",
+    "opcion_4": "El número de protones"
+  },
+  {
+    "pregunta": "¿Qué elemento es un halógeno?",
+    "respuesta": "Cloro",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "Sodio",
+    "opcion_2": "Hierro",
+    "opcion_3": "Cloro",
+    "opcion_4": "Carbono"
+  },
+  {
+    "pregunta": "¿Cuál es el tipo de enlace en una molécula de agua?",
+    "respuesta": "Covalente polar",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "Iónico",
+    "opcion_2": "Covalente no polar",
+    "opcion_3": "Covalente polar",
+    "opcion_4": "Metálico"
+  },
+  {
+    "pregunta": "¿Qué gas se libera al mezclar ácido clorhídrico con zinc?",
+    "respuesta": "Hidrógeno",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "Oxígeno",
+    "opcion_2": "Cloro",
+    "opcion_3": "Hidrógeno",
+    "opcion_4": "Nitrógeno"
+  },
+  {
+    "pregunta": "¿Cuál es la unidad de la constante de los gases ideales (R)?",
+    "respuesta": "atm·L/mol·K",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "J/mol·K",
+    "opcion_2": "atm·L/mol·K",
+    "opcion_3": "Pa·m³/mol·K",
+    "opcion_4": "kg/mol·K"
+  },
+  {
+    "pregunta": "¿Cuál es el estado físico del bromo a temperatura ambiente?",
+    "respuesta": "Líquido",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "Sólido",
+    "opcion_2": "Gas",
+    "opcion_3": "Líquido",
+    "opcion_4": "Plasma"
+  },
+  {
+    "pregunta": "¿Cuál es la base conjugada del ion amonio (NH4+)?",
+    "respuesta": "NH3",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "NH2",
+    "opcion_2": "NH3",
+    "opcion_3": "NH4OH",
+    "opcion_4": "NH4-"
+  },
+  {
+    "pregunta": "¿Qué indica el número de oxidación de un elemento?",
+    "respuesta": "Su capacidad de ganar o perder electrones",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "Su número atómico",
+    "opcion_2": "Su punto de fusión",
+    "opcion_3": "Su masa atómica",
+    "opcion_4": "Su capacidad de ganar o perder electrones"
+  },
+  {
+    "pregunta": "¿Qué compuesto resulta de la neutralización de un ácido con una base?",
+    "respuesta": "Sal y agua",
+    "categoria": "quimica",
+    "dificultad": "normal",
+    "opcion_1": "Sal",
+    "opcion_2": "Ácido",
+    "opcion_3": "Base",
+    "opcion_4": "Sal y agua"
+  },
+  {
+    "pregunta": "¿Cuál es el agente oxidante en una reacción redox?",
+    "respuesta": "La sustancia que se reduce",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "La que se oxida",
+    "opcion_2": "La que se reduce",
+    "opcion_3": "La que gana protones",
+    "opcion_4": "La que libera energía"
+  },
+  {
+    "pregunta": "¿Cuál es la geometría molecular del metano (CH4)?",
+    "respuesta": "Tetraédrica",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "Lineal",
+    "opcion_2": "Angular",
+    "opcion_3": "Trigonal plana",
+    "opcion_4": "Tetraédrica"
+  },
+  {
+    "pregunta": "¿Qué es una constante de equilibrio (Kc)?",
+    "respuesta": "Relación entre productos y reactivos en equilibrio",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "Relación entre productos y reactivos en equilibrio",
+    "opcion_2": "Concentración inicial de reactivos",
+    "opcion_3": "Velocidad de reacción",
+    "opcion_4": "Cantidad de catalizador"
+  },
+  {
+    "pregunta": "¿Cuál es el número de enlaces pi en una molécula de etino (C2H2)?",
+    "respuesta": "2",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "1",
+    "opcion_2": "2",
+    "opcion_3": "3",
+    "opcion_4": "0"
+  },
+  {
+    "pregunta": "¿Qué compuesto presenta hibridación sp3?",
+    "respuesta": "CH4",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "CO2",
+    "opcion_2": "CH2=CH2",
+    "opcion_3": "CH4",
+    "opcion_4": "C6H6"
+  },
+  {
+    "pregunta": "¿Cuál es el pH de una solución con [H+] = 1 x 10^-5?",
+    "respuesta": "5",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "9",
+    "opcion_2": "7",
+    "opcion_3": "5",
+    "opcion_4": "1"
+  },
+  {
+    "pregunta": "¿Qué indica un valor negativo de ΔG (energía libre de Gibbs)?",
+    "respuesta": "La reacción es espontánea",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "La reacción es endotérmica",
+    "opcion_2": "La reacción es espontánea",
+    "opcion_3": "La reacción es lenta",
+    "opcion_4": "No hay reacción"
+  },
+  {
+    "pregunta": "¿Qué tipo de isomería presentan el butano y el isobutano?",
+    "respuesta": "Estructural",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "Geométrica",
+    "opcion_2": "Óptica",
+    "opcion_3": "Estructural",
+    "opcion_4": "Cis-trans"
+  },
+  {
+    "pregunta": "¿Qué compuesto orgánico tiene un grupo funcional -COOH?",
+    "respuesta": "Ácido carboxílico",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "Alcohol",
+    "opcion_2": "Cetona",
+    "opcion_3": "Éster",
+    "opcion_4": "Ácido carboxílico"
+  },
+  {
+    "pregunta": "¿Cuál es el reactivo limitante en una reacción química?",
+    "respuesta": "El que se consume primero",
+    "categoria": "quimica",
+    "dificultad": "dificil",
+    "opcion_1": "El más costoso",
+    "opcion_2": "El que está en menor masa",
+    "opcion_3": "El que se consume primero",
+    "opcion_4": "El que produce menos calor"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "respuesta": "El Amazonas",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "El Nilo",
+    "opcion_2": "El Amazonas",
+    "opcion_3": "El Yangtsé",
+    "opcion_4": "El Misisipi"
+  },
+  {
+    "pregunta": "¿Cuál es el desierto más grande del mundo?",
+    "respuesta": "La Antártida",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "El Sahara",
+    "opcion_2": "El Kalahari",
+    "opcion_3": "La Antártida",
+    "opcion_4": "El Gobi"
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del planeta?",
+    "respuesta": "El océano Pacífico",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "El océano Atlántico",
+    "opcion_2": "El océano Índico",
+    "opcion_3": "El océano Pacífico",
+    "opcion_4": "El océano Ártico"
+  },
+  {
+    "pregunta": "¿En qué continente está Egipto?",
+    "respuesta": "África",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "Asia",
+    "opcion_2": "Europa",
+    "opcion_3": "África",
+    "opcion_4": "América"
+  },
+  {
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "España",
+    "opcion_2": "Italia",
+    "opcion_3": "Grecia",
+    "opcion_4": "Portugal"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de México?",
+    "respuesta": "Ciudad de México",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "Guadalajara",
+    "opcion_2": "Ciudad de México",
+    "opcion_3": "Cancún",
+    "opcion_4": "Monterrey"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "respuesta": "París",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "París",
+    "opcion_2": "Marsella",
+    "opcion_3": "Lyon",
+    "opcion_4": "Niza"
+  },
+  {
+    "pregunta": "¿Qué país está al norte de Estados Unidos?",
+    "respuesta": "Canadá",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "México",
+    "opcion_2": "Canadá",
+    "opcion_3": "Groenlandia",
+    "opcion_4": "Rusia"
+  },
+  {
+    "pregunta": "¿En qué continente se encuentra Brasil?",
+    "respuesta": "América del Sur",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "América del Norte",
+    "opcion_2": "Europa",
+    "opcion_3": "África",
+    "opcion_4": "América del Sur"
+  },
+  {
+    "pregunta": "¿Cuál es el país más grande del mundo en superficie?",
+    "respuesta": "Rusia",
+    "categoria": "geografia",
+    "dificultad": "facil",
+    "opcion_1": "Canadá",
+    "opcion_2": "China",
+    "opcion_3": "Rusia",
+    "opcion_4": "Estados Unidos"
+  },
+
+  {
+    "pregunta": "¿Qué cordillera atraviesa América del Sur?",
+    "respuesta": "Los Andes",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "Los Alpes",
+    "opcion_2": "Los Andes",
+    "opcion_3": "El Himalaya",
+    "opcion_4": "Las Montañas Rocosas"
+  },
+  {
+    "pregunta": "¿Cuál es el país con más islas del mundo?",
+    "respuesta": "Suecia",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "Indonesia",
+    "opcion_2": "Noruega",
+    "opcion_3": "Filipinas",
+    "opcion_4": "Suecia"
+  },
+  {
+    "pregunta": "¿Qué mar separa Europa de África?",
+    "respuesta": "El mar Mediterráneo",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "El mar del Norte",
+    "opcion_2": "El mar Rojo",
+    "opcion_3": "El mar Caribe",
+    "opcion_4": "El mar Mediterráneo"
+  },
+  {
+    "pregunta": "¿Qué país tiene más fronteras con otros países?",
+    "respuesta": "China",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "Rusia",
+    "opcion_2": "Alemania",
+    "opcion_3": "Brasil",
+    "opcion_4": "China"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "respuesta": "Canberra",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "Sídney",
+    "opcion_2": "Melbourne",
+    "opcion_3": "Brisbane",
+    "opcion_4": "Canberra"
+  },
+  {
+    "pregunta": "¿Qué país tiene la mayor población del mundo?",
+    "respuesta": "India",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "China",
+    "opcion_2": "India",
+    "opcion_3": "Estados Unidos",
+    "opcion_4": "Indonesia"
+  },
+  {
+    "pregunta": "¿Qué ciudad se conoce como 'La ciudad eterna'?",
+    "respuesta": "Roma",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "Atenas",
+    "opcion_2": "Roma",
+    "opcion_3": "Jerusalén",
+    "opcion_4": "Estambul"
+  },
+  {
+    "pregunta": "¿Cuál es el país más pequeño del mundo?",
+    "respuesta": "Ciudad del Vaticano",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "Mónaco",
+    "opcion_2": "San Marino",
+    "opcion_3": "Ciudad del Vaticano",
+    "opcion_4": "Liechtenstein"
+  },
+  {
+    "pregunta": "¿Dónde se encuentra el Monte Kilimanjaro?",
+    "respuesta": "Tanzania",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "Sudáfrica",
+    "opcion_2": "Kenia",
+    "opcion_3": "Tanzania",
+    "opcion_4": "Etiopía"
+  },
+  {
+    "pregunta": "¿Qué país sudamericano no tiene salida al mar?",
+    "respuesta": "Paraguay",
+    "categoria": "geografia",
+    "dificultad": "normal",
+    "opcion_1": "Perú",
+    "opcion_2": "Ecuador",
+    "opcion_3": "Paraguay",
+    "opcion_4": "Colombia"
+  },
+
+  {
+    "pregunta": "¿Cuál es el lago más profundo del mundo?",
+    "respuesta": "El lago Baikal",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "El lago Superior",
+    "opcion_2": "El lago Baikal",
+    "opcion_3": "El mar Caspio",
+    "opcion_4": "El lago Tanganica"
+  },
+  {
+    "pregunta": "¿Qué país europeo no tiene ejército?",
+    "respuesta": "Islandia",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "Mónaco",
+    "opcion_2": "Liechtenstein",
+    "opcion_3": "Islandia",
+    "opcion_4": "San Marino"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Mongolia?",
+    "respuesta": "Ulán Bator",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "Almaty",
+    "opcion_2": "Ulán Bator",
+    "opcion_3": "Taskent",
+    "opcion_4": "Biskek"
+  },
+  {
+    "pregunta": "¿En qué país se encuentra el monte Elbrús?",
+    "respuesta": "Rusia",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "Georgia",
+    "opcion_2": "Kazajistán",
+    "opcion_3": "Rusia",
+    "opcion_4": "Ucrania"
+  },
+  {
+    "pregunta": "¿Cuál es el país más nuevo del mundo?",
+    "respuesta": "Sudán del Sur",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "Kosovo",
+    "opcion_2": "Timor Oriental",
+    "opcion_3": "Sudán del Sur",
+    "opcion_4": "Montenegro"
+  },
+  {
+    "pregunta": "¿Qué país tiene más volcanes activos?",
+    "respuesta": "Indonesia",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "Japón",
+    "opcion_2": "Islandia",
+    "opcion_3": "Indonesia",
+    "opcion_4": "Filipinas"
+  },
+  {
+    "pregunta": "¿Qué cordillera contiene el monte Everest?",
+    "respuesta": "Himalaya",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "Andes",
+    "opcion_2": "Himalaya",
+    "opcion_3": "Alpes",
+    "opcion_4": "Montes Urales"
+  },
+  {
+    "pregunta": "¿Qué país tiene más husos horarios?",
+    "respuesta": "Francia",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "Rusia",
+    "opcion_2": "Estados Unidos",
+    "opcion_3": "Francia",
+    "opcion_4": "China"
+  },
+  {
+    "pregunta": "¿Dónde se encuentra el mar de Aral?",
+    "respuesta": "Asia Central",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "Europa del Este",
+    "opcion_2": "Asia Central",
+    "opcion_3": "Oriente Medio",
+    "opcion_4": "Asia del Sur"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Bután?",
+    "respuesta": "Thimphu",
+    "categoria": "geografia",
+    "dificultad": "dificil",
+    "opcion_1": "Katmandú",
+    "opcion_2": "Thimphu",
+    "opcion_3": "Daca",
+    "opcion_4": "Colombo"
   }
 ]
